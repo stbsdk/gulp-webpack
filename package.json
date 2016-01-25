@@ -6,7 +6,6 @@
         "name": "Stanislav Kalashnik",
         "email": "darkpark.main@gmail.com"
     },
-    "main": "../spa-gulp-webpack",
     "repository": "stbsdk/gulp-webpack",
     "scripts": {
         "lint": "eslint *.js",
