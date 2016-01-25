@@ -9,8 +9,8 @@
 
 var path   = require('path'),
     extend = require('extend'),
-    config = require('spa-gulp-webpack/config'),
-    entry  = path.resolve(path.join(config.default.source, 'js', 'main.js'));
+    config = require('spa-gulp-webpack/config');
+    //entry  = path.resolve(path.join(config.default.source, 'js', 'main.js'));
 
 
 // base config
@@ -19,7 +19,7 @@ module.exports = extend(true, {}, config, {
     develop: {
         source: [
             'stb-develop',
-            entry
+            config.default.source
         ]
     }
 });
