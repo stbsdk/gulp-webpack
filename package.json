@@ -12,6 +12,7 @@
         "jsdoc": "jsdoc --destination doc *.js readme.md"
     },
     "dependencies": {
+        "extend": "3.*.*",
         "spa-gulp-webpack": "spasdk/gulp-webpack"
     },
     "keywords": [
