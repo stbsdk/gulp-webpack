@@ -1,19 +1,19 @@
 {
-    "name": "stb-gulp-webpack",
+    "name": "stb-plugin-webpack",
     "version": "1.3.0",
     "description": "Compile all CommonJS modules into a single JavaScript file.",
     "author": {
         "name": "Stanislav Kalashnik",
         "email": "darkpark.main@gmail.com"
     },
-    "repository": "stbsdk/gulp-webpack",
+    "repository": "stbsdk/plugin-webpack",
     "scripts": {
         "lint": "eslint *.js",
         "jsdoc": "jsdoc --destination doc *.js readme.md"
     },
     "dependencies": {
         "extend": "3.*.*",
-        "spa-gulp-webpack": "spasdk/gulp-webpack"
+        "spa-plugin-webpack": "spasdk/plugin-webpack"
     },
     "keywords": [
         "stb",

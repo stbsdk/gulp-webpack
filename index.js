@@ -9,4 +9,4 @@
 require('./config');
 
 // public
-module.exports = require('spa-gulp-webpack');
+module.exports = require('spa-plugin-webpack');

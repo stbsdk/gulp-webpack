@@ -8,4 +8,4 @@
 'use strict';
 
 // public
-module.exports = require('spa-gulp-webpack/config');
+module.exports = require('spa-plugin-webpack/config');
