@@ -19,9 +19,8 @@
         "stb",
         "stbsdk",
         "framework",
-        "gulp",
         "develop",
-        "task",
+        "plugin",
         "webpack"
     ],
     "license": "GPL-3.0"
