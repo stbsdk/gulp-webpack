@@ -15,6 +15,9 @@
         "extend": "3.*.*",
         "spa-plugin-webpack": "spasdk/plugin-webpack"
     },
+    "devDependencies": {
+        "stb-eslint-config": "stbsdk/eslint-config"
+    },
     "keywords": [
         "stb",
         "stbsdk",
