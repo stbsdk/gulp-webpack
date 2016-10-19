@@ -21,7 +21,7 @@
     },
     "devDependencies": {
         "eslint": "3.*.*",
-        "stb-eslint-config": "stbsdk/eslint-config"
+        "stb-eslint-config": "1.*.*"
     },
     "keywords": [
         "stb",
