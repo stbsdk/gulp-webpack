@@ -1,9 +1,10 @@
 Compile CommonJS modules into a single file
 ===========================================
 
-[![Build Status](https://img.shields.io/travis/stbsdk/plugin-webpack.svg?style=flat-square)](https://travis-ci.org/stbsdk/plugin-webpack)
-[![NPM version](https://img.shields.io/npm/v/stb-plugin-webpack.svg?style=flat-square)](https://www.npmjs.com/package/stb-plugin-webpack)
-[![Dependencies Status](https://img.shields.io/david/stbsdk/plugin-webpack.svg?style=flat-square)](https://david-dm.org/stbsdk/plugin-webpack)
+[![build status](https://img.shields.io/travis/stbsdk/plugin-webpack.svg?style=flat-square)](https://travis-ci.org/stbsdk/plugin-webpack)
+[![npm version](https://img.shields.io/npm/v/stb-plugin-webpack.svg?style=flat-square)](https://www.npmjs.com/package/stb-plugin-webpack)
+[![dependencies status](https://img.shields.io/david/stbsdk/plugin-webpack.svg?style=flat-square)](https://david-dm.org/stbsdk/plugin-webpack)
+[![devDependencies status](https://img.shields.io/david/dev/stbsdk/plugin-webpack.svg?style=flat-square)](https://david-dm.org/stbsdk/plugin-webpack?type=dev)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
 
 
