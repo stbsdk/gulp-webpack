@@ -21,6 +21,7 @@
     },
     "devDependencies": {
         "eslint": "4.*.*",
+        "jsdoc": "3.*.*",
         "stb-eslint-config": "1.*.*"
     },
     "keywords": [
